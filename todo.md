@@ -1,0 +1,4 @@
+- [ ] EMAIL notification both on ok,not ok statuses
+- [ ] Dockerfile
+- [ ] Prometheus exporter
+- [ ] retry functionality for lookup method
